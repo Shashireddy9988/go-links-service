@@ -1,0 +1,238 @@
+# Technical Discussion Project
+
+First, thank you for taking the time to interview with us.
+
+We know you're likely interviewing with multiple companies, and we genuinely appreciate you considering us. We've designed this exercise to respect your time while giving you an opportunity to show us how you think.
+
+This isn't intended to be a test of memorization or speed. We care much more about your judgment, the decisions you make, and how you approach building software than whether you know a particular framework or API by heart.
+
+Please feel free to use any resources you would normally use while working:
+
+* AI assistants (ChatGPT, Claude, Copilot, Cursor, etc.)
+* Search engines
+* Documentation
+* Stack Overflow
+* Open source libraries
+
+That's how we build software, too.
+
+---
+
+# Time
+
+If you're building something specifically for this interview, please spend **no more than 60 minutes** on it.
+
+Seriously.
+
+We're not looking to see who is willing to sacrifice an evening or weekend. We'd rather see what you prioritize when time is limited than a large project polished over many hours.
+
+When you reach the hour, it's perfectly acceptable to stop and tell us what you would have done next.
+
+---
+
+
+# Choose One Project
+
+Pick **one** of the following ideas and build a small application.
+
+The goal is not to create a feature-complete product. Instead, imagine you're building the first iteration of something your teammates would continue developing.
+
+## Option 1 ‚Äî Go Links
+
+Build a small internal URL shortcut service.
+
+Examples:
+
+* `go/design-system`
+* `go/oncall`
+* `go/payroll`
+
+Users should be able to:
+
+* Create a shortcut
+* View existing shortcuts
+* Visit a shortcut and be redirected
+
+---
+
+## Option 2 ‚Äî Service Status Dashboard
+
+Create a dashboard showing the status of several internal services.
+
+Example services:
+
+* Authentication
+* Payments
+* Notifications
+* Search
+* AI
+
+The data may be mocked.
+
+---
+
+## Option 3 ‚Äî Feature Flag Manager
+
+Create a small application for managing feature flags.
+
+Users should be able to:
+
+* View flags
+* Enable or disable them
+* Create new flags
+
+---
+
+## Option 4 ‚Äî API Explorer
+
+Build a simple HTTP client that allows a user to make API requests and inspect the response.
+
+Examples include:
+
+* Selecting an HTTP method
+* Entering a URL
+* Viewing status code
+* Viewing formatted JSON
+
+---
+
+## Option 5 ‚Äî Workflow Inbox
+
+Imagine you're building an internal operations tool.
+
+Display a list of pending actions such as:
+
+* Approve an expense
+* Review a deployment
+* Upload documentation
+* Complete onboarding
+
+Allow users to view and complete actions.
+
+---
+
+## Option 6 ‚Äî Team Directory
+
+Create a searchable directory of people.
+
+Include fields such as:
+
+* Name
+* Team
+* Skills
+* Role
+
+Users should be able to search and browse the directory.
+
+---
+
+## Already Have Something You're Proud Of?
+
+You're welcome to submit an existing personal project instead of building something new.
+
+It doesn't need to match one of the prompts exactly. We're simply looking for a project that demonstrates similar engineering skills and reflects how you approach building software.
+
+If you choose this option, please include a short note explaining:
+
+* What the project is
+* What your role was
+* Why you think it's a good representation of your work
+* Anything you'd approach differently today
+
+We're much more interested in seeing thoughtful engineering than in having everyone build the exact same application.
+
+---
+
+# Technical Expectations
+
+Please use **TypeScript**.
+
+Beyond that, you're free to choose the technologies, frameworks, and libraries you believe are appropriate.
+
+We're interested in seeing your engineering judgment as much as your implementation.
+
+---
+
+# What We're Looking For
+
+There isn't a single "correct" solution.
+
+Some of the things we enjoy seeing include:
+
+* Thoughtful user experience
+* Clear API design
+* Accessibility
+* Maintainable code
+* Project organization
+* Error handling
+* Sensible validation
+* Observability (logging, diagnostics, metrics, request IDs, etc.)
+* Good documentation
+* Appropriate use of libraries
+* Good engineering tradeoffs
+
+You are not expected to implement all of these.
+
+---
+
+# You Don't Need to Impress Us
+
+Please don't feel like you need to add authentication, Docker, CI/CD, Kubernetes, deployment scripts, or every feature you can think of just because this is an interview.
+
+A small, thoughtfully designed project is far more interesting to us than a large one that's trying to do everything.
+
+If you decide not to build something because you felt it wasn't the best use of your time, tell us why. Those decisions are often just as valuable as the code itself.
+
+---
+
+# Deliverables
+
+Please include:
+
+## Your project
+
+Provide the source code in a Git repository.
+
+## A README
+
+Include:
+
+* How to run the project
+* Any assumptions you made
+* Tradeoffs you intentionally chose
+* If you had another day, what would you improve?
+
+---
+
+# Optional (but we'd love to see it)
+
+If you're comfortable doing so, include a short screen recording (5‚Äì10 minutes) walking us through:
+
+* What you built
+* Why you made the decisions you did
+* What you'd change with more time
+* Anything you're particularly proud of
+
+This doesn't need to be polished. A simple screen share with narration is perfect.
+
+---
+
+# What Happens Next
+
+Rather than treating this as something to grade, we'll use it as the starting point for our technical conversation.
+
+We'll ask questions about your decisions, discuss tradeoffs, and explore how your solution might evolve if it became part of a larger platform.
+
+There are no trick questions‚Äîwe're genuinely interested in how you think.
+
+---
+
+# A Final Note
+
+Software engineering is fundamentally a team sport.
+
+We're looking for teammates who care about the people using their software, the engineers maintaining it, and the operators supporting it in production.
+
+If you enjoy thinking about the bigger picture‚Äînot just making the code work‚Äîwe think you'll enjoy the kinds of problems we solve.
+
+We're looking forward to meeting you.
